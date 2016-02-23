@@ -19,7 +19,7 @@ body {
 .place {text-align: center;
 		font-size: 15px;
 		font-family: helvetica;
-		padding: 20px;
+		padding: 30px;
 	}
 
 .place-footer {text-align: center;
@@ -33,8 +33,8 @@ body {
 .paragraph1 {
 	font-size: 30px;
 	padding color: transparent;
-	padding: 40px;
-	margin: 20px;
+	padding: 100px;
+	margin: 50px;
 	margin-right: 500px;
 	margin-left: 40px;
 	
@@ -43,8 +43,8 @@ body {
 .paragraph2 {
 	font-size: 30px;
 	padding color: transparent;
-	padding: 40px;
-	margin: 20px;
+	padding: 100px;
+	margin: 50px;
 	margin-right: 40px;
 	margin-left: 500px;
 	
@@ -52,8 +52,8 @@ body {
 .paragraph3 {
 	font-size: 30px;
 	padding color: transparent;
-	padding: 40px;
-	margin: 20px;
+	padding: 100px;
+	margin: 50px;
 	margin-right: 500px;
 	margin-left: 40px;
 
